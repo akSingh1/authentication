@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/akSingh1/authentication"
+    "url": "https://github.com/ravi-tripathi/authentication"
   },
   "author": "",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/akSingh1/authentication/issues"
+    "url": "https://github.com/ravi-tripathi/authentication/issues"
   },
   "dependencies": {
     "express": "~4.16.2",
