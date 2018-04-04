@@ -145,3 +145,49 @@ input[type="button"]{
 	color: white;
 	cursor: pointer; 
 }
+#loggedInContainer{
+	width: 100%;
+	height: 100%;
+	background: green;
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	display: none;
+}
+.greenArrow{
+	width: 0; 
+	height:0;
+	border-right: 30px solid transparent;
+	border-bottom: 30px solid green;
+	font-weight: bold;
+	border-left: 30px solid transparent;
+	display: block;
+}
+#nav ul {
+            list-style-type:none;
+            margin:0px;
+            padding:0px;
+}
+        
+#nav ul li {
+            border-bottom:solid 1px white;
+            float:left;
+}
+        
+#nav ul li a {
+    font-family:Verdana, Geneva, sans-serif;
+    font-size:14px;
+    text-decoration:none;
+    color:#FFF;
+    background-color: green;
+    display:block;
+    padding:10px;
+    width:200px;
+    text-align:center;
+    margin-right: 5px;
+}
+
+#nav ul li a:hover {
+    background-color:white;
+    color:#000;
+}

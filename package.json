@@ -18,6 +18,7 @@
   "dependencies": {
     "express": "~4.16.2",
     "body-parser": "~1.18.2",
-    "mysql": "~2.15.0"
+    "mysql": "~2.15.0",
+    "mysql-wrapper": "~0.1.1"
   }
 }

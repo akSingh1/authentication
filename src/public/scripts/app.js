@@ -57,7 +57,7 @@ function verifyLogin (payload) {
 		 }).then(function (resp) {
 		 	console.log('final', resp)
 		 	if(resp.success === 'SUCCESS') {
-		 		alert('Logged in !!');
+		 		showLandingPage();
 		 	} else  {
 		 		alert('Not able to login !!');
 		 	}
